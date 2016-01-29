@@ -558,4 +558,8 @@
         "name": "Dark Skies",
         "colors": ["#4B79A1", "#283E51"]
     }
+    {
+        "name": "Skeletor",
+        "colors": ["#896891", "#5E1175"]
+    }
 ]
